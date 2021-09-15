@@ -1091,6 +1091,7 @@ footer {
     height: 22px;
     font-size: 10px;
     margin-top: 7px;
+    line-height: 10px;
   }
   .subheader_phone {
     font-size: 12px;
@@ -1142,6 +1143,7 @@ footer {
   .choice {
     padding: 25px 0 33px 0;
     min-height: 390px;
+    background: #070716;
   }
   .choice .black {
     min-height: 390px;
